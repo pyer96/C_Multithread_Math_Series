@@ -3,7 +3,7 @@ Multithread program to evaluate the summation (x/y)^i for i=0...N
 
 This program evaluates the following math series:
  
-              		                ___N
+              		          ___N
                                 \      (x^i)
                                  .     _____
                                 /__i=0 (y^i)
