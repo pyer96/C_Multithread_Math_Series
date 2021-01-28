@@ -12,10 +12,10 @@
  * 	The main thread, then, computes the divisions and the final summation.
  *
  * 	Usage:
- * 		<./solution07> <x> <y> <N>
+ * 		<./math_series> <x> <y> <N>
  *
  * 	Compile:
- * 		gcc solution07.c -o solution07 -Wall -Werror -pthread -fsanitize=leak
+ * 		gcc math_series.c -o math_series -Wall -Werror -pthread -fsanitize=leak
  *
  * #######################################################################################
  */
